@@ -22,9 +22,9 @@
 
 ## libretro-mamenummacwaytausend
 [https://github.com/nummacway/libretro-mamenummacwaytausend](https://github.com/nummacway/libretro-mamenummacwaytausend "https://github.com/nummacway/libretro-mamenummacwaytausend")
-\
-\
-\
+
+<br><br><br>
+
 # ***Tools***
 ## tadpole
 [https://github.com/EricGoldsteinNz/tadpole](https://github.com/EricGoldsteinNz/tadpole "https://github.com/EricGoldsteinNz/tadpole")
@@ -54,9 +54,9 @@
 
 ## SF2000 Theme collection (zerter555)
 [https://zerter555.github.io/sf2000-collection/index.html](https://zerter555.github.io/sf2000-collection/index.html "https://zerter555.github.io/sf2000-collection/index.html")
-\
-\
-\
+
+<br><br><br>
+
 # ***Wiki / Docs / Info***
 ## Discord
 [https://discord.gg/RetroHandhelds](https://discord.gg/RetroHandhelds "https://discord.gg/RetroHandhelds")
