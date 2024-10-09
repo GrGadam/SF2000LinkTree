@@ -55,8 +55,11 @@
 ## SF2000 Theme collection (zerter555)
 [https://zerter555.github.io/sf2000-collection/index.html](https://zerter555.github.io/sf2000-collection/index.html "https://zerter555.github.io/sf2000-collection/index.html")
 
-##SF2000 Save State Tool
+## SF2000 Save State Tool
 [https://vonmillhausen.github.io/sf2000/tools/saveStateTool.htm](https://vonmillhausen.github.io/sf2000/tools/saveStateTool.htm "https://vonmillhausen.github.io/sf2000/tools/saveStateTool.htm")
+
+## SF2000 Boot Logo Changer
+[https://vonmillhausen.github.io/sf2000/tools/bootLogoChanger.htm](https://vonmillhausen.github.io/sf2000/tools/bootLogoChanger.htm "https://vonmillhausen.github.io/sf2000/tools/bootLogoChanger.htm")
 
 <br><br><br>
 
