@@ -89,3 +89,6 @@
 
 ## Console Showcase - [Taki Udon](https://www.youtube.com/@TakiUdon "YouTube Channel")
 [https://youtu.be/ImqGsC0NZ6M?si=9ZMpqhHKqKeCl84D](https://youtu.be/ImqGsC0NZ6M?si=9ZMpqhHKqKeCl84D "YouTube")
+
+## Console Showcase - [TechDweeb](https://www.youtube.com/@TechDweeb "YouTube Channel")
+[https://youtu.be/YsSmrek-QBk?si=NlcORdRu2ghwDL4i](https://youtu.be/YsSmrek-QBk?si=NlcORdRu2ghwDL4i "YouTube")
