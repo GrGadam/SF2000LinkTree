@@ -30,7 +30,7 @@
 [https://github.com/EricGoldsteinNz/tadpole](https://github.com/EricGoldsteinNz/tadpole "https://github.com/EricGoldsteinNz/tadpole")
 
 ## multicore_rom_helper
-[https://github.com/EricGoldsteinNz/tadpole](https://github.com/EricGoldsteinNz/tadpole "https://github.com/EricGoldsteinNz/tadpole")
+[https://github.com/fjdogar/multicore_rom_helper](https://github.com/fjdogar/multicore_rom_helper "https://github.com/fjdogar/multicore_rom_helper")
 
 ## GPSP core (dynarec, FPS display, in-game saves, upstream)
 [Download (Discord CDN)](https://cdn.discordapp.com/attachments/1099465777825972347/1273058430105686098/sf2000-gpsp-dynarec-saves-fps-14-08-2024.zip?ex=6707b84e&is=670666ce&hm=8dec3682312d4f2f2aa2311bade3fd1054bfd55f26197fb3b23125b3e959c836& "Download (Discord CDN)")
