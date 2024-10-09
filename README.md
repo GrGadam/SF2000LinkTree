@@ -83,7 +83,7 @@
 
 <br><br><br>
 
-# ***Videos***
+# ***Video - Showcase***
 ## SF2000 Showcase - [Retro Game Corps](https://www.youtube.com/@RetroGameCorps "YouTube Channel")
 [https://youtu.be/_VxK63sT2hk?si=18-CvwFH1VWrD7_a](https://youtu.be/_VxK63sT2hk?si=18-CvwFH1VWrD7_a "YouTube")
 
@@ -101,3 +101,9 @@
 
 ## GB300 Showcase - [Wicked Gamer & Collector](https://www.youtube.com/@WickedGamerCollector "YouTube Channel")
 [https://youtu.be/c-N7p9QZ4Zw?si=60Np7wxM9f786VLW](https://youtu.be/c-N7p9QZ4Zw?si=60Np7wxM9f786VLW "YouTube")
+
+<br><br><br>
+
+# ***Video - Tutorial***
+## SF2000 Customization and Tadpole - [Dr Brute](https://www.youtube.com/@DrBrute7 "YouTube Channel")
+[https://youtu.be/LVV7MVWx424?si=In-VMCr_mk_t0t6n](https://youtu.be/LVV7MVWx424?si=In-VMCr_mk_t0t6n "YouTube")
