@@ -1,27 +1,27 @@
 # Firmware(s)
 ## Vanilla (Stock without roms)
-[https://github.com/Dteyn/Datafrog_SF2000_Vanilla]
+[https://github.com/Dteyn/Datafrog_SF2000_Vanilla](https://github.com/Dteyn/Datafrog_SF2000_Vanilla "https://github.com/Dteyn/Datafrog_SF2000_Vanilla")
 
 ## Multicore (SF2000)
-https://github.com/madcock/sf2000_multicore
-https://github.com/madcock/sf2000_multicore_cores
-https://github.com/madcock/sf2000_multicore_cores/releases
+[https://github.com/madcock/sf2000_multicore](https://github.com/madcock/sf2000_multicore "https://github.com/madcock/sf2000_multicore")
+[https://github.com/madcock/sf2000_multicore_cores](https://github.com/madcock/sf2000_multicore_cores "https://github.com/madcock/sf2000_multicore_cores")
+[https://github.com/madcock/sf2000_multicore_cores/releases](https://github.com/madcock/sf2000_multicore_cores/releases "https://github.com/madcock/sf2000_multicore_cores/releases")
 
 ## Multicore (GB300)
-https://github.com/tzubertowski/gb300_multicore
-https://github.com/tzubertowski/gb300_multicore/releases
+[https://github.com/tzubertowski/gb300_multicore](https://github.com/tzubertowski/gb300_multicore "https://github.com/tzubertowski/gb300_multicore")
+[https://github.com/tzubertowski/gb300_multicore/releases](https://github.com/tzubertowski/gb300_multicore/releases "https://github.com/tzubertowski/gb300_multicore/releases")
 
 ## AmphibiOS/hcrtos (true cfw) - has issues!
-https://git.maschath.de/ignatz/hcrtos
+[https://git.maschath.de/ignatz/hcrtos](https://git.maschath.de/ignatz/hcrtos "https://git.maschath.de/ignatz/hcrtos")
 
 ## GB300 v2 (merge of SF2000 and GB300 emulators under the SF2000 interface)
-https://www.reddit.com/r/GB300/comments/1ewkb0g/they_gave_me_a_gb300_with_the_sf2000_firmware_is/?rdt=44170
+[https://www.reddit.com/r/GB300/comments/1ewkb0g/they_gave_me_a_gb300_with_the_sf2000_firmware_is/?rdt=44170](https://www.reddit.com/r/GB300/comments/1ewkb0g/they_gave_me_a_gb300_with_the_sf2000_firmware_is/?rdt=44170 "https://www.reddit.com/r/GB300/comments/1ewkb0g/they_gave_me_a_gb300_with_the_sf2000_firmware_is/?rdt=44170")
 
 ## libretro-stella2014_remapped
-https://github.com/fjdogar/libretro-stella2014_remapped
+[https://github.com/fjdogar/libretro-stella2014_remapped](https://github.com/fjdogar/libretro-stella2014_remapped "https://github.com/fjdogar/libretro-stella2014_remapped")
 
 ## libretro-mamenummacwaytausend
-https://github.com/nummacway/libretro-mamenummacwaytausend
+[https://github.com/nummacway/libretro-mamenummacwaytausend](https://github.com/nummacway/libretro-mamenummacwaytausend "https://github.com/nummacway/libretro-mamenummacwaytausend")
 
 
 
