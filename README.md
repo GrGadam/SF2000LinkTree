@@ -1,6 +1,6 @@
 # Firmware(s)
 ## Vanilla (Stock without roms)
-https://github.com/Dteyn/Datafrog_SF2000_Vanilla
+[https://github.com/Dteyn/Datafrog_SF2000_Vanilla]
 
 ## Multicore (SF2000)
 https://github.com/madcock/sf2000_multicore
