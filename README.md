@@ -68,7 +68,7 @@
 ## GB300 (nummacway)
 [https://nummacway.github.io/gb300/](https://nummacway.github.io/gb300/ "https://nummacway.github.io/gb300/")
 
-## SF2000 Projects website (Dteyn)
+## Dteyn's SF2000 Projects
 [https://dteyn.github.io/sf2000_projects.htm](https://dteyn.github.io/sf2000_projects.htm "https://dteyn.github.io/sf2000_projects.htm")
 
 ## Reddit
