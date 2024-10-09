@@ -80,3 +80,12 @@
 ## Reddit
 [https://www.reddit.com/r/SBCGaming/comments/13ge9so/one_place_for_all_sf2000_modstools_and_info/](https://www.reddit.com/r/SBCGaming/comments/13ge9so/one_place_for_all_sf2000_modstools_and_info/ "https://www.reddit.com/r/SBCGaming/comments/13ge9so/one_place_for_all_sf2000_modstools_and_info/")<br>
 [https://www.reddit.com/r/SBCGaming/comments/1az4l3d/a_beginners_guide_for_the_data_frog_sf2000/](https://www.reddit.com/r/SBCGaming/comments/1az4l3d/a_beginners_guide_for_the_data_frog_sf2000/ "https://www.reddit.com/r/SBCGaming/comments/1az4l3d/a_beginners_guide_for_the_data_frog_sf2000/")
+
+<br><br><br>
+
+# ***Videos***
+## Console Showcase - [Retro Game Corps](https://www.youtube.com/@RetroGameCorps "YouTube Channel")
+[https://youtu.be/_VxK63sT2hk?si=18-CvwFH1VWrD7_a](https://youtu.be/_VxK63sT2hk?si=18-CvwFH1VWrD7_a "YouTube")
+
+## Console Showcase - [Taki Udon](https://www.youtube.com/@TakiUdon "YouTube Channel")
+[https://youtu.be/ImqGsC0NZ6M?si=9ZMpqhHKqKeCl84D](https://youtu.be/ImqGsC0NZ6M?si=9ZMpqhHKqKeCl84D "YouTube")
