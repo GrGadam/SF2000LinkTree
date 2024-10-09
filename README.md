@@ -3,12 +3,12 @@
 [https://github.com/Dteyn/Datafrog_SF2000_Vanilla](https://github.com/Dteyn/Datafrog_SF2000_Vanilla "https://github.com/Dteyn/Datafrog_SF2000_Vanilla")
 
 ## Multicore (SF2000)
-[https://github.com/madcock/sf2000_multicore](https://github.com/madcock/sf2000_multicore "https://github.com/madcock/sf2000_multicore")
-[https://github.com/madcock/sf2000_multicore_cores](https://github.com/madcock/sf2000_multicore_cores "https://github.com/madcock/sf2000_multicore_cores")
+[https://github.com/madcock/sf2000_multicore](https://github.com/madcock/sf2000_multicore "https://github.com/madcock/sf2000_multicore")<br>
+[https://github.com/madcock/sf2000_multicore_cores](https://github.com/madcock/sf2000_multicore_cores "https://github.com/madcock/sf2000_multicore_cores")<br>
 [https://github.com/madcock/sf2000_multicore_cores/releases](https://github.com/madcock/sf2000_multicore_cores/releases "https://github.com/madcock/sf2000_multicore_cores/releases")
 
 ## Multicore (GB300)
-[https://github.com/tzubertowski/gb300_multicore](https://github.com/tzubertowski/gb300_multicore "https://github.com/tzubertowski/gb300_multicore")
+[https://github.com/tzubertowski/gb300_multicore](https://github.com/tzubertowski/gb300_multicore "https://github.com/tzubertowski/gb300_multicore")<br>
 [https://github.com/tzubertowski/gb300_multicore/releases](https://github.com/tzubertowski/gb300_multicore/releases "https://github.com/tzubertowski/gb300_multicore/releases")
 
 ## AmphibiOS/hcrtos (true cfw) - has issues!
@@ -36,11 +36,11 @@
 [Download (Discord CDN)](https://cdn.discordapp.com/attachments/1099465777825972347/1273058430105686098/sf2000-gpsp-dynarec-saves-fps-14-08-2024.zip?ex=6707b84e&is=670666ce&hm=8dec3682312d4f2f2aa2311bade3fd1054bfd55f26197fb3b23125b3e959c836& "Download (Discord CDN)")
 
 ## multicore (with libretro battery save API)
-[https://github.com/leonardothehuman/sf2000_multicore](https://github.com/leonardothehuman/sf2000_multicore "https://github.com/leonardothehuman/sf2000_multicore")
+[https://github.com/leonardothehuman/sf2000_multicore](https://github.com/leonardothehuman/sf2000_multicore "https://github.com/leonardothehuman/sf2000_multicore")<br>
 [https://github.com/leonardothehuman/sf2000_multicore/releases](https://github.com/leonardothehuman/sf2000_multicore/releases "https://github.com/leonardothehuman/sf2000_multicore/releases")
 
 ## gb300-sf2000-tool
-[https://github.com/nummacway/gb300-sf2000-tool](https://github.com/nummacway/gb300-sf2000-tool "https://github.com/nummacway/gb300-sf2000-tool")
+[https://github.com/nummacway/gb300-sf2000-tool](https://github.com/nummacway/gb300-sf2000-tool "https://github.com/nummacway/gb300-sf2000-tool")<br>
 [https://github.com/nummacway/gb300-sf2000-tool/releases](https://github.com/nummacway/gb300-sf2000-tool/releases "https://github.com/nummacway/gb300-sf2000-tool/releases")
 
 ## ZFBTool
@@ -62,8 +62,8 @@
 [https://discord.gg/RetroHandhelds](https://discord.gg/RetroHandhelds "https://discord.gg/RetroHandhelds")
 
 ## SF2000 (vonmillhausen)
-[https://vonmillhausen.github.io/sf2000/](https://vonmillhausen.github.io/sf2000/ "https://vonmillhausen.github.io/sf2000/")
-[https://github.com/vonmillhausen/sf2000](https://github.com/vonmillhausen/sf2000 "https://github.com/vonmillhausen/sf2000")
+[https://vonmillhausen.github.io/sf2000/](https://vonmillhausen.github.io/sf2000/ "https://vonmillhausen.github.io/sf2000/")<br>
+[https://github.com/vonmillhausen/sf2000](https://github.com/vonmillhausen/sf2000/ "https://github.com/vonmillhausen/sf2000")
 
 ## GB300 (nummacway)
 [https://nummacway.github.io/gb300/](https://nummacway.github.io/gb300/ "https://nummacway.github.io/gb300/")
@@ -72,5 +72,5 @@
 [https://dteyn.github.io/sf2000_projects.htm](https://dteyn.github.io/sf2000_projects.htm "https://dteyn.github.io/sf2000_projects.htm")
 
 ## Reddit
-[https://www.reddit.com/r/SBCGaming/comments/13ge9so/one_place_for_all_sf2000_modstools_and_info/](https://www.reddit.com/r/SBCGaming/comments/13ge9so/one_place_for_all_sf2000_modstools_and_info/ "https://www.reddit.com/r/SBCGaming/comments/13ge9so/one_place_for_all_sf2000_modstools_and_info/")
+[https://www.reddit.com/r/SBCGaming/comments/13ge9so/one_place_for_all_sf2000_modstools_and_info/](https://www.reddit.com/r/SBCGaming/comments/13ge9so/one_place_for_all_sf2000_modstools_and_info/ "https://www.reddit.com/r/SBCGaming/comments/13ge9so/one_place_for_all_sf2000_modstools_and_info/")<br>
 [https://www.reddit.com/r/SBCGaming/comments/1az4l3d/a_beginners_guide_for_the_data_frog_sf2000/](https://www.reddit.com/r/SBCGaming/comments/1az4l3d/a_beginners_guide_for_the_data_frog_sf2000/ "https://www.reddit.com/r/SBCGaming/comments/1az4l3d/a_beginners_guide_for_the_data_frog_sf2000/")
