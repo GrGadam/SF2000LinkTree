@@ -1,4 +1,4 @@
-# Firmware(s)
+# ***Firmware(s)***
 ## Vanilla (Stock without roms)
 [https://github.com/Dteyn/Datafrog_SF2000_Vanilla](https://github.com/Dteyn/Datafrog_SF2000_Vanilla "https://github.com/Dteyn/Datafrog_SF2000_Vanilla")
 
@@ -25,7 +25,7 @@
 
 
 
-# Tools
+# ***Tools***
 ## tadpole
 [https://github.com/EricGoldsteinNz/tadpole](https://github.com/EricGoldsteinNz/tadpole "https://github.com/EricGoldsteinNz/tadpole")
 
@@ -57,7 +57,7 @@
 
 
 
-# Wiki / Docs / Info
+# ***Wiki / Docs / Info***
 ## Discord
 [https://discord.gg/RetroHandhelds](https://discord.gg/RetroHandhelds "https://discord.gg/RetroHandhelds")
 
