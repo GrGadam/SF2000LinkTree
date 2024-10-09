@@ -1,7 +1,10 @@
 plugins:
   - jekyll-relative-links
+  - jekyll-remote-theme
 relative_links:
   enabled: true
   collections: true
+remote_theme: pages-themes/midnight@v0.2.0
+title: [SF2000 Link Tree]
 include:
   - Site.md
