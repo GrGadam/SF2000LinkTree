@@ -23,7 +23,7 @@
 ## libretro-mamenummacwaytausend
 [https://github.com/nummacway/libretro-mamenummacwaytausend](https://github.com/nummacway/libretro-mamenummacwaytausend "https://github.com/nummacway/libretro-mamenummacwaytausend")
 
-
+\\\
 
 # ***Tools***
 ## tadpole
@@ -55,7 +55,7 @@
 ## SF2000 Theme collection (zerter555)
 [https://zerter555.github.io/sf2000-collection/index.html](https://zerter555.github.io/sf2000-collection/index.html "https://zerter555.github.io/sf2000-collection/index.html")
 
-
+\\\
 
 # ***Wiki / Docs / Info***
 ## Discord
