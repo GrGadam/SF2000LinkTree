@@ -84,11 +84,20 @@
 <br><br><br>
 
 # ***Videos***
-## Console Showcase - [Retro Game Corps](https://www.youtube.com/@RetroGameCorps "YouTube Channel")
+## SF2000 Showcase - [Retro Game Corps](https://www.youtube.com/@RetroGameCorps "YouTube Channel")
 [https://youtu.be/_VxK63sT2hk?si=18-CvwFH1VWrD7_a](https://youtu.be/_VxK63sT2hk?si=18-CvwFH1VWrD7_a "YouTube")
 
-## Console Showcase - [Taki Udon](https://www.youtube.com/@TakiUdon "YouTube Channel")
+## SF2000 Showcase - [Taki Udon](https://www.youtube.com/@TakiUdon "YouTube Channel")
 [https://youtu.be/ImqGsC0NZ6M?si=9ZMpqhHKqKeCl84D](https://youtu.be/ImqGsC0NZ6M?si=9ZMpqhHKqKeCl84D "YouTube")
 
-## Console Showcase - [TechDweeb](https://www.youtube.com/@TechDweeb "YouTube Channel")
+## SF2000 Showcase - [TechDweeb](https://www.youtube.com/@TechDweeb "YouTube Channel")
 [https://youtu.be/YsSmrek-QBk?si=NlcORdRu2ghwDL4i](https://youtu.be/YsSmrek-QBk?si=NlcORdRu2ghwDL4i "YouTube")
+
+## GB300 Showcase - [OGTechNick](https://www.youtube.com/@OGTechNick "YouTube Channel")
+[https://youtu.be/Ep8xK3IIyMA?si=Ko0JQSU__DMjNuhU](https://youtu.be/Ep8xK3IIyMA?si=Ko0JQSU__DMjNuhU "YouTube")
+
+## GB300 Showcase - [Pocketable Gaming](https://www.youtube.com/@PocketableGaming "YouTube Channel")
+[https://youtu.be/sTjP7bp-GB8?si=W8G_L1J5bO_57KfI](https://youtu.be/sTjP7bp-GB8?si=W8G_L1J5bO_57KfI "YouTube")
+
+## GB300 Showcase - [Wicked Gamer & Collector](https://www.youtube.com/@WickedGamerCollector "YouTube Channel")
+[https://youtu.be/c-N7p9QZ4Zw?si=60Np7wxM9f786VLW](https://youtu.be/c-N7p9QZ4Zw?si=60Np7wxM9f786VLW "YouTube")
