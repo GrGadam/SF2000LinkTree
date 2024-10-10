@@ -65,7 +65,7 @@
 
 # ***Wiki / Docs / Info***
 ## Discord
-[https://discord.gg/RetroHandhelds](https://discord.gg/RetroHandhelds "https://discord.gg/RetroHandhelds")
+[https://discord.gg/RetroHandhelds](https://discord.gg/RetroHandhelds "https://discord.gg/RetroHandhelds")<br>
 [SF2000 Beginners Thread (Discord)](https://discord.com/channels/741895796315914271/1290981957684953110 "Discord Channel")
 
 ## SF2000 (vonmillhausen)
